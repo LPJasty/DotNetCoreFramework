@@ -1,0 +1,41 @@
+C:\Users\Admin\Documents\Mars\MarsFramework\MarsDotNetCore\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Admin\Documents\Mars\MarsFramework\MarsDotNetCore\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Admin\Documents\Mars\MarsFramework\MarsDotNetCore\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Admin\Documents\Mars\MarsFramework\MarsDotNetCore\bin\Debug\netcoreapp2.1\MarsDotNetCore.deps.json
+C:\Users\Admin\Documents\Mars\MarsFramework\MarsDotNetCore\bin\Debug\netcoreapp2.1\MarsDotNetCore.runtimeconfig.json
+C:\Users\Admin\Documents\Mars\MarsFramework\MarsDotNetCore\bin\Debug\netcoreapp2.1\MarsDotNetCore.runtimeconfig.dev.json
+C:\Users\Admin\Documents\Mars\MarsFramework\MarsDotNetCore\bin\Debug\netcoreapp2.1\MarsDotNetCore.dll
+C:\Users\Admin\Documents\Mars\MarsFramework\MarsDotNetCore\obj\Debug\netcoreapp2.1\MarsDotNetCore.csprojAssemblyReference.cache
+C:\Users\Admin\Documents\Mars\MarsFramework\MarsDotNetCore\obj\Debug\netcoreapp2.1\MarsDotNetCore.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Mars\MarsFramework\MarsDotNetCore\obj\Debug\netcoreapp2.1\MarsDotNetCore.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\Mars\MarsFramework\MarsDotNetCore\obj\Debug\netcoreapp2.1\MarsDotNetCore.AssemblyInfo.cs
+C:\Users\Admin\Documents\Mars\MarsFramework\MarsDotNetCore\bin\Debug\netcoreapp2.1\MarsDotNetCore.pdb
+C:\Users\Admin\Documents\Mars\MarsFramework\MarsDotNetCore\bin\Debug\netcoreapp2.1\Interop.AutoItX3Lib.dll
+C:\Users\Admin\Documents\Mars\MarsFramework\MarsDotNetCore\obj\Debug\netcoreapp2.1\Interop.AutoItX3Lib.dll
+C:\Users\Admin\Documents\Mars\MarsFramework\MarsDotNetCore\obj\Debug\netcoreapp2.1\MarsDotNetCore.csproj.ResolveComReference.cache
+C:\Users\Admin\Documents\Mars\MarsFramework\MarsDotNetCore\obj\Debug\netcoreapp2.1\MarsDotNetCore.dll
+C:\Users\Admin\Documents\Mars\MarsFramework\MarsDotNetCore\obj\Debug\netcoreapp2.1\MarsDotNetCore.pdb
+C:\Project\MarsSeleniumCore\MarsDotNetCore\obj\Debug\netcoreapp2.1\MarsDotNetCore.csprojAssemblyReference.cache
+C:\Project\MarsSeleniumCore\MarsDotNetCore\obj\Debug\netcoreapp2.1\MarsDotNetCore.csproj.ResolveComReference.cache
+C:\Project\MarsSeleniumCore\MarsDotNetCore\obj\Debug\netcoreapp2.1\MarsDotNetCore.csproj.CoreCompileInputs.cache
+C:\Project\MarsSeleniumCore\MarsDotNetCore\obj\Debug\netcoreapp2.1\MarsDotNetCore.AssemblyInfoInputs.cache
+C:\Project\MarsSeleniumCore\MarsDotNetCore\obj\Debug\netcoreapp2.1\MarsDotNetCore.AssemblyInfo.cs
+C:\Project\MarsSeleniumCore\MarsDotNetCore\obj\Debug\netcoreapp2.1\MarsDotNetCore.dll
+C:\Project\MarsSeleniumCore\MarsDotNetCore\obj\Debug\netcoreapp2.1\MarsDotNetCore.pdb
+C:\Users\Lakshmi Jasti\Downloads\specflow-core-framework-master\MarsDotNetCore\bin\Debug\netcoreapp2.1\MarsDotNetCore.deps.json
+C:\Users\Lakshmi Jasti\Downloads\specflow-core-framework-master\MarsDotNetCore\bin\Debug\netcoreapp2.1\MarsDotNetCore.runtimeconfig.json
+C:\Users\Lakshmi Jasti\Downloads\specflow-core-framework-master\MarsDotNetCore\bin\Debug\netcoreapp2.1\MarsDotNetCore.runtimeconfig.dev.json
+C:\Users\Lakshmi Jasti\Downloads\specflow-core-framework-master\MarsDotNetCore\bin\Debug\netcoreapp2.1\MarsDotNetCore.dll
+C:\Users\Lakshmi Jasti\Downloads\specflow-core-framework-master\MarsDotNetCore\bin\Debug\netcoreapp2.1\MarsDotNetCore.pdb
+C:\Users\Lakshmi Jasti\Downloads\specflow-core-framework-master\MarsDotNetCore\bin\Debug\netcoreapp2.1\Interop.AutoItX3Lib.dll
+C:\Users\Lakshmi Jasti\Downloads\specflow-core-framework-master\MarsDotNetCore\obj\Debug\netcoreapp2.1\MarsDotNetCore.csprojAssemblyReference.cache
+C:\Users\Lakshmi Jasti\Downloads\specflow-core-framework-master\MarsDotNetCore\obj\Debug\netcoreapp2.1\Interop.AutoItX3Lib.dll
+C:\Users\Lakshmi Jasti\Downloads\specflow-core-framework-master\MarsDotNetCore\obj\Debug\netcoreapp2.1\MarsDotNetCore.csproj.ResolveComReference.cache
+C:\Users\Lakshmi Jasti\Downloads\specflow-core-framework-master\MarsDotNetCore\obj\Debug\netcoreapp2.1\MarsDotNetCore.csproj.CoreCompileInputs.cache
+C:\Users\Lakshmi Jasti\Downloads\specflow-core-framework-master\MarsDotNetCore\obj\Debug\netcoreapp2.1\MarsDotNetCore.AssemblyInfoInputs.cache
+C:\Users\Lakshmi Jasti\Downloads\specflow-core-framework-master\MarsDotNetCore\obj\Debug\netcoreapp2.1\MarsDotNetCore.AssemblyInfo.cs
+C:\Users\Lakshmi Jasti\Downloads\specflow-core-framework-master\MarsDotNetCore\obj\Debug\netcoreapp2.1\MarsDotNetCore.dll
+C:\Users\Lakshmi Jasti\Downloads\specflow-core-framework-master\MarsDotNetCore\obj\Debug\netcoreapp2.1\MarsDotNetCore.pdb
+C:\Users\Lakshmi Jasti\Downloads\specflow-core-framework-master\MarsDotNetCore\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+C:\Users\Lakshmi Jasti\Downloads\specflow-core-framework-master\MarsDotNetCore\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+C:\Users\Lakshmi Jasti\Downloads\specflow-core-framework-master\MarsDotNetCore\bin\Debug\netcoreapp2.1\nunit.engine.netstandard.dll
